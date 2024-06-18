@@ -1,5 +1,7 @@
-## Hi there 👋
 
+I'm currently working on buidling my data analytics portfolio.
+
+[![My Skills](https://skillicons.dev/icons?i=dart,firebase,flutter,mysql,postgres,py,)](https://skillicons.dev)
 <!--
 **mitchellcheever/mitchellcheever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
